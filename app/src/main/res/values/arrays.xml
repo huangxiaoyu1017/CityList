@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="data">
+        <item>广东</item>
+        <item>北京</item>
+        <item>广西</item>
+        <item>北海</item>
+        <item>海口</item>
+        <item>北欧</item>
+        <item>浙江</item>
+        <item>浙西</item>
+        <item>陕北</item>
+        <item>浙北</item>
+        <item>浙南</item>
+        <item>江苏</item>
+        <item>江西</item>
+        <item>贵阳</item>
+        <item>江水</item>
+        <item>海水</item>
+        <item>江湖</item>
+        <item>安徽</item>
+        <item>重庆</item>
+        <item>湖北</item>
+        <item>湖南</item>
+        <item>河北</item>
+        <item>河东</item>
+        <item>内心</item>
+        <item>河西</item>
+        <item>河南</item>
+        <item>四川</item>
+        <item>天津</item>
+        <item>新上海滩</item>
+        <item>天上</item>
+        <item>吉林</item>
+        <item>吉祥</item>
+        <item>黑龙江</item>
+        <item>江西</item>
+        <item>辽宁</item>
+        <item>内蒙古</item>
+        <item>宁夏</item>
+        <item>青海</item>
+        <item>山西</item>
+        <item>陕西</item>
+        <item>上海</item>
+        <item>新疆</item>
+        <item>西藏</item>
+        <item>云南</item>
+        <item>甘肃</item>
+        <item>贵州</item>
+        <item>海南</item>
+
+    </string-array>
+
+</resources>
